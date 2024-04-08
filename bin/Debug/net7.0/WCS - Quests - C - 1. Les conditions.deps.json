@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "WCS - Quests - C - 1. Les conditions/1.0.0": {
+        "runtime": {
+          "WCS - Quests - C - 1. Les conditions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WCS - Quests - C - 1. Les conditions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
