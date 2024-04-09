@@ -13,3 +13,18 @@
 /Users/Charly/quests/C#/1. Les conditions/WCS - Quests - C - 1. Les conditions/obj/Debug/net7.0/WCS - Quests - C - 1. Les conditions.pdb
 /Users/Charly/quests/C#/1. Les conditions/WCS - Quests - C - 1. Les conditions/obj/Debug/net7.0/WCS - Quests - C - 1. Les conditions.genruntimeconfig.cache
 /Users/Charly/quests/C#/1. Les conditions/WCS - Quests - C - 1. Les conditions/obj/Debug/net7.0/ref/WCS - Quests - C - 1. Les conditions.dll
+/Users/Charly/quests/C#/1_Les_conditions/bin/Debug/net7.0/WCS - Quests - C - 1. Les conditions
+/Users/Charly/quests/C#/1_Les_conditions/bin/Debug/net7.0/WCS - Quests - C - 1. Les conditions.deps.json
+/Users/Charly/quests/C#/1_Les_conditions/bin/Debug/net7.0/WCS - Quests - C - 1. Les conditions.runtimeconfig.json
+/Users/Charly/quests/C#/1_Les_conditions/bin/Debug/net7.0/WCS - Quests - C - 1. Les conditions.dll
+/Users/Charly/quests/C#/1_Les_conditions/bin/Debug/net7.0/WCS - Quests - C - 1. Les conditions.pdb
+/Users/Charly/quests/C#/1_Les_conditions/obj/Debug/net7.0/WCS - Quests - C - 1. Les conditions.csproj.AssemblyReference.cache
+/Users/Charly/quests/C#/1_Les_conditions/obj/Debug/net7.0/WCS - Quests - C - 1. Les conditions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Charly/quests/C#/1_Les_conditions/obj/Debug/net7.0/WCS - Quests - C - 1. Les conditions.AssemblyInfoInputs.cache
+/Users/Charly/quests/C#/1_Les_conditions/obj/Debug/net7.0/WCS - Quests - C - 1. Les conditions.AssemblyInfo.cs
+/Users/Charly/quests/C#/1_Les_conditions/obj/Debug/net7.0/WCS - Quests - C - 1. Les conditions.csproj.CoreCompileInputs.cache
+/Users/Charly/quests/C#/1_Les_conditions/obj/Debug/net7.0/WCS - Quests - C - 1. Les conditions.dll
+/Users/Charly/quests/C#/1_Les_conditions/obj/Debug/net7.0/refint/WCS - Quests - C - 1. Les conditions.dll
+/Users/Charly/quests/C#/1_Les_conditions/obj/Debug/net7.0/WCS - Quests - C - 1. Les conditions.pdb
+/Users/Charly/quests/C#/1_Les_conditions/obj/Debug/net7.0/WCS - Quests - C - 1. Les conditions.genruntimeconfig.cache
+/Users/Charly/quests/C#/1_Les_conditions/obj/Debug/net7.0/ref/WCS - Quests - C - 1. Les conditions.dll

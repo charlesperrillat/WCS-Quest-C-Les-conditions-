@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Charly/quests/C#/1. Les conditions/WCS - Quests - C - 1. Les conditions/WCS - Quests - C - 1. Les conditions.csproj",
+      "projectUniqueName": "/Users/Charly/quests/C#/1_Les_conditions/WCS - Quests - C - 1. Les conditions.csproj",
       "projectName": "WCS - Quests - C - 1. Les conditions",
-      "projectPath": "/Users/Charly/quests/C#/1. Les conditions/WCS - Quests - C - 1. Les conditions/WCS - Quests - C - 1. Les conditions.csproj",
+      "projectPath": "/Users/Charly/quests/C#/1_Les_conditions/WCS - Quests - C - 1. Les conditions.csproj",
       "packagesPath": "/Users/Charly/.nuget/packages/",
-      "outputPath": "/Users/Charly/quests/C#/1. Les conditions/WCS - Quests - C - 1. Les conditions/obj/",
+      "outputPath": "/Users/Charly/quests/C#/1_Les_conditions/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/Charly/.nuget/NuGet/NuGet.Config"
